@@ -30,7 +30,7 @@
 
 ## Before entering CAPTCHA text
 
-![image](https://user-images.githubusercontent.com/43011442/126794471-b9359828-6146-4aee-b639-9981d36edad2.png)
+![image](https://user-images.githubusercontent.com/43011442/126794753-e0deebe8-4be1-4c85-bf14-061808514e72.png)
 
 
 ## While entering CAPTCHA text
