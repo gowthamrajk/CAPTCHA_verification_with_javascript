@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CAPTCHA</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<div class="wrapper">
+		<header>Verify Custom CAPTCHA</header>
+		<div class="captcha-area">
+			<div class="captcha-img">
+				<img src="img/captchaBackground.png" alt="">
+				<span class="captcha"></span>
+			</div>
+			<button class="reload-btn"><i class="fas fa-redo-alt"></i></button>
+		</div>
+		<form action="#" class="input-area">
+			<input type="text" placeholder="enter captcha code here ..." maxlength="6" required>
+			<button class="check-btn">Check</button>
+		</form>
+		<small id="alert" style="color: darkred; font-weight: 600;">You are allowed to enter only 6 characters</small>
+		<div class="status-txt">Captcha not matched. Please try again !!!</div>
+	</div>
+	<script src="script.js"></script>
+</body>
+</html>
