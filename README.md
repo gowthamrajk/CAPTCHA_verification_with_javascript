@@ -33,4 +33,4 @@
 ![Uploading image.png…]()
 
 
-
+## While entering CAPTCHA text
