@@ -27,3 +27,6 @@
 
 # UI SneakPeak ❤️ 
 
+## Before entering CAPTCHA text
+
+
