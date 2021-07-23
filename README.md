@@ -7,3 +7,4 @@
 🔭 Features :
 
 - Generate CAPTCHA randomly
+- verify and display messages based on the verification
