@@ -9,3 +9,11 @@
 - Generate CAPTCHA randomly 
 - verify and display status based on the verification 📲
 - Automatically generates new CAPTCHA's after 6 seconds of every successfull verification 🖇️
+
+# TECHNOLOGIES USED 📌
+
+
+
+
+
+
