@@ -4,6 +4,8 @@
 
 - It is a simple web page which demonstrates how to generate custom CAPTCHA codes by yourself and verify them. The code will be re-generated automatically once in every 6 seconds of successful verification
 
+**🌐 **
+
 ## 🔭 Features :
 
 - Generate CAPTCHA randomly 
