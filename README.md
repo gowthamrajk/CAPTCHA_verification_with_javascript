@@ -35,7 +35,7 @@
 
 ## While entering CAPTCHA text
 
-![image](https://user-images.githubusercontent.com/43011442/126794507-f674f864-886d-4484-83e8-12c4f0ef6c7c.png)
+![image](https://user-images.githubusercontent.com/43011442/126794843-5fac6275-1282-4c8f-a271-c764fb968f43.png)
 
 
 ## Wrong CAPTCHA verified
