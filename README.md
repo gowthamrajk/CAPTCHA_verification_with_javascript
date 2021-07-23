@@ -48,6 +48,7 @@
 ![image](https://user-images.githubusercontent.com/43011442/126795073-807f84da-facf-4985-8a9e-46bb7ff5d214.png)
 
 
+## Automatic Regenrate CAPTCHA after successful verification
 
 
 
